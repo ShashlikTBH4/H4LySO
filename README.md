@@ -12,7 +12,8 @@ Install:
     cd T1041
     make 
     cd ../H4LySO/
-    make
+    make soLib
+    
 
 
 Where:
