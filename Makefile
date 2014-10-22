@@ -7,7 +7,7 @@ SOFLAGS		=-fPIC -shared
 SHELL		=bash
 ###
 SrcSuf        = cpp
-HeadSuf       = hpp
+HeadSuf       = h
 ObjSuf        = o
 DepSuf        = d
 DllSuf        = so
